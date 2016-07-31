@@ -1,14 +1,14 @@
 <?php
 ob_start();
-define('API_KEY','XXXX');
+define('API_KEY','243815250:AAGn7L1Ykvag8iSB_6bwQrC9LuQVcHTdw10');
 $the_admin_id = 0;
 
 file_put_contents("count",file_get_contents("count")+1);
 
-$ad_btn='آموزش های رایگان برنامه نویسی';
-$ad_url='http://telegram.me/cplearn';
+$ad_btn='پلاگین ربات انتی اسپم';
+$ad_url='http://telegram.me/openplugins';
 $ad_text = "1⃣ در تلگـ ـلیست، کانال خودتون رو به رایگان در مرجع کانالهای تلگرام فارسی قرار بدید، به رايگان تبليغ و عضوگيرى كنيد.
-<a href='http://www.teleglist.com/?bot'>به رایگان در تلگـ ـلیست کانال خود را ثبت کنید</a>
+به رایگان در تلگـ ـلیست کانال خود را ثبت کنید</a>
 ➖➖➖➖➖➖
 ارایه انواع آموزش برنامه نویسی و طراحی وب...برای کسب اطالاعات بیشتر در کانال سایت عضو بشید.";
 
