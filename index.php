@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','243815250:AAGUQCLGtB66zv8zEI14PX4ONweUiJl7nMo');
+define('API_KEY','243815250:AAHNn8tHn5wMczdIupNzp9WvXWgl0QfLu7M');
 $the_admin_id = 206189568;
 
 file_put_contents("count",file_get_contents("count")+1);
